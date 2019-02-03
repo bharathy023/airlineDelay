@@ -1,5 +1,8 @@
 # airlineDelay
 
+This model minimizes the total travel time from Madison to different destinations based on the given 
+travel time data.
+
 Henry hates flying United airlines through O’Hare (ORD). This is a problem, as he is a soughtafter
 lecturer who frequently must make trips from his home base in Madison (MSN) to San Francisco
 (SFO), Houston (IAH), Washington DC (DCA), and Orlando (MCO). If he flies United, he
